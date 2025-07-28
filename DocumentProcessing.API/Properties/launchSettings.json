@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "DocumentProcessing.API": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53270;http://localhost:53271"
+    }
+  }
+}
